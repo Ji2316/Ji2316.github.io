@@ -1,0 +1,4 @@
+# ไฟล์ยืนยันตัวตนผู้เผยแพร่โฆษณา Google AdMob (app-ads.txt)
+# วิธีใช้: แทนที่ pub-0000000000000000 ด้วยรหัส Publisher ID จริงจากหน้าบัญชี AdMob ของคุณ
+# จากนั้นอัปโหลดไฟล์นี้ไว้ที่ Root Domain เดียวกับเว็บไซต์นักพัฒนาที่กรอกใน Google Play Console (เช่น https://yourdomain.github.io/app-ads.txt)
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
